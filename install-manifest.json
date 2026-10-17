@@ -3598,6 +3598,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "ghost-squeak--jjkun28": {
+      "name": "鬼马史魁克",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "f375cfb2ea619a8dccd05690439fdc30b7f1f11b3d486bc5ad5f9feb562f8bca",
+      "petJsonBytes": 331,
+      "spritesheetSha256": "48aef3bcd5dfaf531a3417dbd1dde07cb1f3f93aaed4459f2169853d3a3e94ab",
+      "spritesheetBytes": 1496226,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "youmu--ai-generated": {
       "name": "魂魄妖梦",
       "spriteVersionNumber": 2,
