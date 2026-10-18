@@ -395,6 +395,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "cinnamoroll--zhou-jianwen",
+    "name": "Cinnamoroll",
+    "localized_names": { "en": "Cinnamoroll", "zh": "大耳狗" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "primary_category": "Mascots",
+    "canonical_key": "sanrio/cinnamoroll",
+    "variant_note": "An independently AI-generated flat-cartoon V2 fan interpretation with nine task animations and sixteen clockwise look directions. This supplies only the Cinnamoroll portion of mixed-character request #311.",
+    "collections": [],
+    "license": "Non-commercial use only. Unofficial, independently AI-generated fan interpretation. Character and official-reference rights remain with their respective owners. No license or permission to the underlying character or reference artwork is asserted or granted by this submission.",
+    "description": "An unofficial, independently AI-generated Cinnamoroll fan companion with a white rounded body, long drooping ears, blue oval eyes, pink cheeks, and a cinnamon-roll tail. zhou-jianwen is the independent AI-assisted adapter, not Sanrio or the character designer.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "citlali--zaytsevzy",
     "name": "Citlali",
     "localized_names": { "en": "Citlali", "zh": "茜特菈莉" },
@@ -1304,6 +1318,20 @@
     "license": "CC BY-NC 4.0",
     "description": "An Isekaijoucho-inspired fan-art Codex pet with long wavy silver hair, a vivid blue flower ornament, a white-and-ice-blue dress palette, and a compact chibi pixel sprite identity.",
     "spriteVersionNumber": 1
+  },
+  {
+    "slug": "jarvis-hud--zhou-jianwen",
+    "name": "J.A.R.V.I.S. HUD",
+    "localized_names": { "en": "J.A.R.V.I.S. HUD", "zh": "贾维斯 HUD" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "primary_category": "Robots",
+    "canonical_key": "marvel/jarvis",
+    "variant_note": "An independently AI-generated V2 interpretation of the J.A.R.V.I.S. interface requested in #291: a compact realistic 3D cyan instrument with concentric rings and an attached gimballed scanner, without a human likeness.",
+    "collections": [],
+    "license": "Non-commercial use only. Unofficial, independently AI-generated fan interpretation. Character and reference-art rights remain with their respective owners. No license or permission to the underlying character or reference artwork is asserted or granted by this submission.",
+    "description": "An unofficial J.A.R.V.I.S.-inspired cyan instrument companion with concentric ring housing and an attached gimballed scanning aperture. The Iron Man identity follows request #291; this mechanical HUD interpretation contains no human likeness. zhou-jianwen is the independent AI-assisted adapter.",
+    "spriteVersionNumber": 2
   },
   {
     "slug": "jesse-the-fox--itjesse",
@@ -3000,6 +3028,20 @@
     "collections": ["wuthering-waves"],
     "license": "Personal non-commercial fan use",
     "spriteVersionNumber": 1
+  },
+  {
+    "slug": "zero-one--zhou-jianwen",
+    "name": "Zero One",
+    "localized_names": { "en": "Zero One", "zh": "零一" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "primary_category": "Others",
+    "canonical_key": "community-request/308",
+    "variant_note": "An independently AI-generated compact 3D-toy V2 interpretation of the school-uniform character reference in request #308, with nine task animations and sixteen clockwise look directions. The request name is preserved while the reference's different lettering remains unresolved.",
+    "collections": [],
+    "license": "Non-commercial use only. Independently AI-generated reference interpretation. Character and reference-art rights remain with their respective owners. No license or permission to the underlying character or reference artwork is asserted or granted by this submission.",
+    "description": "An independently AI-generated, non-commercial companion with long lavender hair, violet eyes, asymmetric floral hair ornaments, a white blouse, navy bow and skirt, dark socks, and lavender shoes. The requested name Zero One / 零一 is retained; no franchise, creator ownership, or original-character status is asserted.",
+    "spriteVersionNumber": 2
   },
   {
     "slug": "zhengyin--noonwake",

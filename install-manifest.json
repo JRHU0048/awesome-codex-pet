@@ -331,6 +331,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "cinnamoroll--zhou-jianwen": {
+      "name": "Cinnamoroll",
+      "localizedNames": { "en": "Cinnamoroll", "zh": "大耳狗" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "c180d25be49729768422b32caf1e8bd1457c66a23bc1c82501cf5879360ac1f1",
+      "petJsonBytes": 232,
+      "spritesheetSha256": "a0dc5d67b305448a780e87e641f927606d064ab00cdaff52f0cecac3f07efcd3",
+      "spritesheetBytes": 1485870,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "citlali--zaytsevzy": {
       "name": "Citlali",
       "localizedNames": { "en": "Citlali", "zh": "茜特菈莉" },
@@ -1064,6 +1075,17 @@
       "spritesheetBytes": 2182564,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "jarvis-hud--zhou-jianwen": {
+      "name": "J.A.R.V.I.S. HUD",
+      "localizedNames": { "en": "J.A.R.V.I.S. HUD", "zh": "贾维斯 HUD" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "779fb2e2cbeccbb130bdc3f7dfa0e99cd88723c72649e283270e8e50edf53869",
+      "petJsonBytes": 235,
+      "spritesheetSha256": "e5ddef0c2061ecd54292da3f812690e38b8b11139d345ef9b56ab79583d1b925",
+      "spritesheetBytes": 3941028,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "jesse-the-fox--itjesse": {
       "name": "JesseTheFox",
@@ -2471,6 +2493,17 @@
       "spritesheetBytes": 1836938,
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
+    },
+    "zero-one--zhou-jianwen": {
+      "name": "Zero One",
+      "localizedNames": { "en": "Zero One", "zh": "零一" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "09e13d05e45514f8d9ee1a1ffa0bc482652776a19310e837fdd5a529606ad7c3",
+      "petJsonBytes": 225,
+      "spritesheetSha256": "9dfe45fd1576e4691f807f99a0271c7741b38b9d94dc9cdaa41514dea100177e",
+      "spritesheetBytes": 3118842,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
     },
     "zhengyin--noonwake": {
       "name": "Zhengyin",

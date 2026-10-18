@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="进入 Awesome Codex Pet 精品画廊"></a>
 
-![pets: 345](https://img.shields.io/badge/pets-345-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 348](https://img.shields.io/badge/pets-348-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -103,7 +103,7 @@ npx --yes @legeling/codex-pet list
 </table>
 
 <details>
-<summary>完整宠物索引（纯文字） · 345</summary>
+<summary>完整宠物索引（纯文字） · 348</summary>
 
 ### 游戏角色
 
@@ -322,6 +322,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/apu--xchangee">Apu</a> · 作者 <a href="https://github.com/xchangee">@xchangee</a> · v1</li>
 <li><a href="../../pets/bearisbug--huanghan">小熊虫</a> · 作者 <a href="https://github.com/hanhuang22">@hanhuang22</a> · v2</li>
 <li><a href="../../pets/capoo--lan-kehan">猫猫虫咖波</a> · 作者 <a href="https://github.com/lan-kehan">@lan-kehan</a> · v1</li>
+<li><a href="../../pets/cinnamoroll--zhou-jianwen">大耳狗</a> · 作者 @zhou-jianwen · v2</li>
 <li><a href="../../pets/claude--xiangking">Claude</a> · 作者 <a href="https://github.com/xiangking">@xiangking</a> · v1</li>
 <li><a href="../../pets/clawd--godxxy1229">Clawd</a> · 作者 <a href="https://github.com/godxxy1229">@godxxy1229</a> · v2</li>
 <li><a href="../../pets/twinkle-twinkle--twinkletwinkle">Dashun&#39;s Twinkle Twinkle</a> · 作者 @twinkletwinkle · v1</li>
@@ -423,6 +424,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/codenono--dq02">CodeNoNo</a> · 作者 <a href="https://github.com/Dqd02">@Dqd02</a> · v1</li>
 <li><a href="../../pets/crt-monitor--wxy">CRT 显示器</a> · 作者 @wxy · v2</li>
 <li><a href="../../pets/elber--legeling">ELBER</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="../../pets/jarvis-hud--zhou-jianwen">贾维斯 HUD</a> · 作者 @zhou-jianwen · v2</li>
 <li><a href="../../pets/nu-gundam--mzhyui">ν高达</a> · 作者 <a href="https://github.com/mzhyui">@mzhyui</a> · v2</li>
 <li><a href="../../pets/workbuddy-robot--wynn">WorkBuddy 机器人</a> · 作者 @wynn · v2</li>
 <li><a href="../../pets/xiaoda--legeling">小达</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
@@ -485,6 +487,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/sae-itoshi--legeling">Sae Itoshi</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/sylas-ravenshade--legeling">Sylas Ravenshade</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/templar-knight--jorge-cuevas90003">圣殿骑士</a> · 作者 <a href="https://github.com/Jorge-Cuevas90003">@Jorge-Cuevas90003</a> · v2</li>
+<li><a href="../../pets/zero-one--zhou-jianwen">零一</a> · 作者 @zhou-jianwen · v2</li>
 <li><a href="../../pets/march-7th--legeling">三月七</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/qieli--legeling">切莉</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/gege-basketball--legeling">哥哥</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
