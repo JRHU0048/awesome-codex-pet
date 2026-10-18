@@ -1,5 +1,45 @@
 [
   {
+    "number": 305,
+    "character": "酒狐",
+    "characterDetails": "酒狐",
+    "franchise": "我的世界",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://ts1.tc.mm.bing.net/th/id/OIP-C.id-wPmO2WV6T1t81EVKp_wAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "referenceUrls": [
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.id-wPmO2WV6T1t81EVKp_wAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "他的音频",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-16T04:14:58Z",
+    "updatedAt": "2026-10-18T01:25:43Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/305"
+  },
+  {
     "number": 311,
     "character": "大耳狗 - 三丽鸥 - 美乐蒂 Kitty猫",
     "characterDetails": "大耳狗 - 三丽鸥 - 美乐蒂 Kitty猫",
@@ -120,46 +160,6 @@
     "comments": 1,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/307"
-  },
-  {
-    "number": 305,
-    "character": "酒狐",
-    "characterDetails": "酒狐",
-    "franchise": "我的世界",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://ts1.tc.mm.bing.net/th/id/OIP-C.id-wPmO2WV6T1t81EVKp_wAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "referenceUrls": [
-      "https://ts1.tc.mm.bing.net/th/id/OIP-C.id-wPmO2WV6T1t81EVKp_wAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "他的音频",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-16T04:14:58Z",
-    "updatedAt": "2026-10-16T04:14:58Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/305"
   },
   {
     "number": 291,
