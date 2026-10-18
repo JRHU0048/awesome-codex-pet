@@ -1860,6 +1860,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "reze--zhou-jianwen": {
+      "name": "Reze",
+      "localizedNames": { "en": "Reze", "zh": "蕾潔" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "d75eb4c66fd0b95cafcac435d8c4a0cc492a447c81cdea7e291eee35cbdd92cc",
+      "petJsonBytes": 207,
+      "spritesheetSha256": "c8275331c659b68842911d3eb543d42ce7fc0ae079e5710b3409016988c02b96",
+      "spritesheetBytes": 1337078,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "rinami--siiverash": {
       "name": "Rinami Himesaki",
       "spriteVersionNumber": 1,

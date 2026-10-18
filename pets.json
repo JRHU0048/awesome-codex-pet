@@ -2266,6 +2266,20 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "reze--zhou-jianwen",
+    "name": "Reze",
+    "localized_names": { "en": "Reze", "zh": "蕾潔" },
+    "author": "zhou-jianwen",
+    "author_handle": "zhou-jianwen",
+    "primary_category": "Anime Characters",
+    "canonical_key": "chainsaw-man/reze",
+    "variant_note": "An independently AI-generated compact 3D-toy V2 fan interpretation prepared for community request #307, with nine task animations and sixteen clockwise look directions.",
+    "collections": ["chainsaw-man"],
+    "license": "Non-commercial use only. Unofficial, independently AI-generated fan interpretation. Character and reference-art rights remain with their respective owners. No license or permission to the underlying character or reference artwork is asserted or granted by this submission.",
+    "description": "An unofficial, independently AI-generated Reze fan companion in a compact 3D-toy style, with violet hair, a white sleeveless blouse, a black neck ribbon, black shorts, and dark thigh-high socks. zhou-jianwen is credited as the independent AI-assisted adapter, not the character creator or reference artist.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "rinami--siiverash",
     "name": "Rinami Himesaki",
     "author": "SiIverAsh",
