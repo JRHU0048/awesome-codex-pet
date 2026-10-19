@@ -1,5 +1,43 @@
 [
   {
+    "number": 320,
+    "character": "美乐蒂 - 三丽鸥",
+    "characterDetails": "美乐蒂 - 三丽鸥",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://sanrio.com.cn/family_details3.html",
+    "referenceUrls": ["https://sanrio.com.cn/family_details3.html"],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-19T03:32:08Z",
+    "updatedAt": "2026-10-19T03:32:08Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/320"
+  },
+  {
     "number": 319,
     "character": "史努比",
     "characterDetails": "史努比",
