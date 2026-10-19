@@ -2137,6 +2137,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "snoopy--legeling": {
+      "name": "Snoopy",
+      "localizedNames": { "en": "Snoopy", "zh": "史努比" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "62fd8596db6573a3a1c039cfb01fdcbcefc43a1dc86db1f0d07987a3d126237e",
+      "petJsonBytes": 243,
+      "spritesheetSha256": "b7fe03a3f6ef9fe9bc522ebd41323b2ce8b2a48fd8b85d24a6a4340ebda0cb66",
+      "spritesheetBytes": 1264252,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "sonetto--chenxin-dlut": {
       "name": "Sonetto",
       "localizedNames": { "en": "Sonetto", "zh": "十四行诗" },

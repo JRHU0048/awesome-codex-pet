@@ -2597,6 +2597,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "snoopy--legeling",
+    "name": "Snoopy",
+    "localized_names": { "en": "Snoopy", "zh": "史努比" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "peanuts/snoopy",
+    "variant_note": "An independently AI-generated black-ink, white-filled comic-style V2 interpretation by legeling, with its own approved spritesheet, profile-based task animations and head-turn poses. This is independent of zhou-jianwen's separate Snoopy version in PR #322 and does not reuse its artwork.",
+    "collections": [],
+    "license": "Independent AI-generated unofficial fan interpretation; non-commercial use only. Commercial use is prohibited. Character and reference-art rights remain with their respective owners.",
+    "description": "An unofficial white-filled black-ink Snoopy companion with gentle comic gestures, nine standard task animations and 16 clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "sonetto--chenxin-dlut",
     "name": "Sonetto",
     "localized_names": { "en": "Sonetto", "zh": "十四行诗" },

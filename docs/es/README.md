@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top/es"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="Abrir la galería de Awesome Codex Pet"></a>
 
-![pets: 350](https://img.shields.io/badge/pets-350-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 351](https://img.shields.io/badge/pets-351-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -69,7 +69,7 @@ npx @legeling/codex-pet
 </table>
 
 <details>
-<summary>Índice completo (solo texto) · 350</summary>
+<summary>Índice completo (solo texto) · 351</summary>
 
 ### Personajes de videojuegos
 
@@ -453,6 +453,7 @@ npx @legeling/codex-pet
 <li><a href="../../pets/my-little-orange-cat--zhou-jianwen">My Little Orange Cat</a> · por <a href="https://github.com/zhou-jianwen">@zhou-jianwen</a> · v2</li>
 <li><a href="../../pets/peach-cat--legeling">Peach Cat</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/sae-itoshi--legeling">Sae Itoshi</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
+<li><a href="../../pets/snoopy--legeling">Snoopy</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/sylas-ravenshade--legeling">Sylas Ravenshade</a> · por <a href="https://github.com/legeling">@legeling</a> · v2</li>
 <li><a href="../../pets/templar-knight--jorge-cuevas90003">Templar Knight</a> · por <a href="https://github.com/Jorge-Cuevas90003">@Jorge-Cuevas90003</a> · v2</li>
 <li><a href="../../pets/zero-one--zhou-jianwen">Zero One</a> · por @zhou-jianwen · v2</li>
