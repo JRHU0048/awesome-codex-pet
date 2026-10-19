@@ -1,5 +1,83 @@
 [
   {
+    "number": 317,
+    "character": "mega evolution charizard",
+    "characterDetails": "mega evolution charizard",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://www.ign.com/wikis/pokemon-x-y/Mega_Charizard_X",
+    "referenceUrls": ["https://www.ign.com/wikis/pokemon-x-y/Mega_Charizard_X"],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Let the community maker decide.",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-18T14:52:55Z",
+    "updatedAt": "2026-10-19T06:27:33Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/317"
+  },
+  {
+    "number": 319,
+    "character": "史努比",
+    "characterDetails": "史努比",
+    "franchise": "无",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png",
+    "referenceUrls": ["https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png"],
+    "referenceImages": [
+      "https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png"
+    ],
+    "referenceThumbnails": [],
+    "visualDirection": "无",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-18T15:53:37Z",
+    "updatedAt": "2026-10-19T06:27:26Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/319"
+  },
+  {
     "number": 318,
     "character": "史努比",
     "characterDetails": "史努比",
@@ -80,84 +158,6 @@
     "comments": 1,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/320"
-  },
-  {
-    "number": 319,
-    "character": "史努比",
-    "characterDetails": "史努比",
-    "franchise": "无",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png",
-    "referenceUrls": ["https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png"],
-    "referenceImages": [
-      "https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png"
-    ],
-    "referenceThumbnails": [],
-    "visualDirection": "无",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-18T15:53:37Z",
-    "updatedAt": "2026-10-18T15:53:37Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/319"
-  },
-  {
-    "number": 317,
-    "character": "mega evolution charizard",
-    "characterDetails": "mega evolution charizard",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://www.ign.com/wikis/pokemon-x-y/Mega_Charizard_X",
-    "referenceUrls": ["https://www.ign.com/wikis/pokemon-x-y/Mega_Charizard_X"],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "Let the community maker decide.",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-18T14:52:55Z",
-    "updatedAt": "2026-10-18T14:52:55Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/317"
   },
   {
     "number": 311,
