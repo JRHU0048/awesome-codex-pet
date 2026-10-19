@@ -2527,6 +2527,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "yier--shyboy429": {
+      "name": "一二",
+      "localizedNames": { "en": "Yi Er", "zh": "一二" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "95180188baff4171751fd8f636d7c53e038932c86f4a11d19fc8a9665452730f",
+      "petJsonBytes": 294,
+      "spritesheetSha256": "07c1e1c1d9e7fe057e02d282825cf488817253492dc65b9720cddeabe38612fa",
+      "spritesheetBytes": 1283188,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "march-7th--legeling": {
       "name": "三月七",
       "localizedNames": { "en": "March 7th", "zh": "三月七" },

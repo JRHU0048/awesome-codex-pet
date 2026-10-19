@@ -3073,6 +3073,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "yier--shyboy429",
+    "name": "一二",
+    "localized_names": { "en": "Yi Er", "zh": "一二" },
+    "author": "shyboy429",
+    "author_handle": "shyboy429",
+    "author_url": "https://github.com/shyboy429",
+    "primary_category": "Mascots",
+    "canonical_key": "fictional/huangxiaob/yier",
+    "variant_note": "An independently assembled v2 adaptation by shyboy429: nine custom sticker-style action states, including a pink pig bag, finger-heart greeting, crying puddle, thinking pose, calling Bubu text and small hop, plus sixteen look directions. Distinct from yier--gbn666 (v1); no assets were taken from that package. Some standard-action pixels directly reuse submitter-provided character images, with cleanup, cropping and animation; other poses and the look sweep were generated with AI.",
+    "collections": [],
+    "license": "Non-commercial use only. Original character Yi Er / 一二 is credited to 黄小B (Huang Xiao B). Original character and reference-image rights remain with their respective rights holders; no official authorization is claimed. shyboy429 is credited for pet adaptation, animation, AI direction and packaging, not original character authorship. The reference images were privately provided by the submitter and have no verified public source URL.",
+    "description": "A white, brown-eared Yi Er sticker bear with pink cheeks and a bow. Nine custom action states and sixteen clockwise look directions; an unofficial AI-assisted adaptation based partly on directly reused character images supplied by the submitter.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "march-7th--legeling",
     "name": "三月七",
     "localized_names": { "en": "March 7th", "zh": "三月七" },
