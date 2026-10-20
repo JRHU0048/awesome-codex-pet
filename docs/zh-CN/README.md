@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="进入 Awesome Codex Pet 精品画廊"></a>
 
-![pets: 351](https://img.shields.io/badge/pets-351-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 352](https://img.shields.io/badge/pets-352-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -103,7 +103,7 @@ npx --yes @legeling/codex-pet list
 </table>
 
 <details>
-<summary>完整宠物索引（纯文字） · 351</summary>
+<summary>完整宠物索引（纯文字） · 352</summary>
 
 ### 游戏角色
 
@@ -251,6 +251,7 @@ npx --yes @legeling/codex-pet list
 <li><a href="../../pets/sakamoto--zpzjzj">阪本</a> · 作者 <a href="https://github.com/zpzjzj">@zpzjzj</a> · v2</li>
 <li><a href="../../pets/gintoki-pixel--yuu-m">坂田银时</a> · 作者 @Yuu M. · v1</li>
 <li><a href="../../pets/shinchan--chenxin-dlut">野原新之助</a> · 作者 <a href="https://github.com/chenxin-dlut">@chenxin-dlut</a> · v1</li>
+<li><a href="../../pets/snoopy--zhou-jianwen">史努比</a> · 作者 @zhou-jianwen · v2</li>
 <li><a href="../../pets/takamatsu-tomori--a1wace-dev">高松灯</a> · 作者 @A1wace-dev · v2</li>
 <li><a href="../../pets/togawa-sakiko--enclairfarron">丰川祥子</a> · 作者 <a href="https://github.com/enclairfarron">@enclairfarron</a> · v2</li>
 <li><a href="../../pets/toothless--legeling">Toothless</a> · 作者 <a href="https://github.com/legeling">@legeling</a> · v2</li>
