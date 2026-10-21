@@ -1523,6 +1523,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "mia--karvachiik-lgtm": {
+      "name": "Mia",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "0f77ce07fd699d72d87d133137d22dede961d263aa4778f3bd707aa3d62447c5",
+      "petJsonBytes": 335,
+      "spritesheetSha256": "63aee68e9cfbeedc4863d6349de182c52f7c739a776b156be146a431dd083681",
+      "spritesheetBytes": 956986,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "mihari--hyoni1129": {
       "name": "Mihari",
       "spriteVersionNumber": 1,

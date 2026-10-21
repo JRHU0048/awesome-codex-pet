@@ -1857,6 +1857,19 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "mia--karvachiik-lgtm",
+    "name": "Mia",
+    "author": "karvachiik-lgtm",
+    "author_handle": "karvachiik-lgtm",
+    "author_url": "https://github.com/karvachiik-lgtm",
+    "primary_category": "Original Characters",
+    "canonical_key": "original/karvachiik-lgtm/mia",
+    "collections": [],
+    "license": "CC BY-NC 4.0. Original AI-generated artwork submitted by karvachiik-lgtm; non-commercial use only.",
+    "description": "An original fictional fashion model in a sage-green strapless mini dress: a runway catwalk, a skirt twirl, a happy hop, a cute oops, a wink with a thumbs-up, and she follows your cursor.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "mihari--hyoni1129",
     "name": "Mihari",
     "author": "Jeonghan Lee (@Hyoni1129)",
