@@ -1,0 +1,35 @@
+{
+  "slug": "nazuna-nanakusa--puzzlemoondev",
+  "pet_slug": "nazuna-nanakusa",
+  "author_slug": "puzzlemoondev",
+  "name": "Nazuna Nanakusa",
+  "author": "puzzlemoondev",
+  "author_handle": "puzzlemoondev",
+  "author_url": "https://github.com/puzzlemoondev",
+  "primary_category": "Anime Characters",
+  "canonical_key": "fictional/call-of-the-night/nazuna-nanakusa",
+  "variant_note": "A photographic velour plush interpretation with restrained motion, nine standard animation states, and sixteen look directions.",
+  "tags": [
+    "nazuna",
+    "nazuna-nanakusa",
+    "call-of-the-night",
+    "anime",
+    "plush",
+    "fan-art",
+    "ai-generated",
+    "v2"
+  ],
+  "source_type": "ai-generated-fan-art",
+  "source_url": "https://yofukashi-no-uta.com/1st/news/archives/18",
+  "asset_note": "Nazuna Nanakusa's animation artwork was generated with the built-in imagegen tool using native transparency, then assembled and refined into a v2 atlas with nine standard animation states and sixteen look directions. A privately supplied plush photograph and an approved generated base provided appearance guidance.",
+  "reference_note": "The reference photograph was privately supplied and has no verified public source URL. Its photographer and the plush product maker have not been independently verified. The linked official anime page identifies Nazuna Nanakusa from Call of the Night; it is not the source of the photograph.",
+  "credit_note": "puzzlemoondev is credited for AI direction, pet adaptation, animation, and packaging. This credit does not claim authorship of the underlying character, plush design, or reference photograph.",
+  "description": "An unofficial Nazuna Nanakusa plush companion from Call of the Night, with lavender braids, cyan embroidered eyes, gentle animations, and sixteen look directions.",
+  "license": "Non-commercial use only. Commercial use is prohibited. This is unofficial AI-generated fan art based on a privately supplied plush photograph. Underlying character, plush design, and reference-image rights remain with their respective owners; no ownership of or permission to those underlying works is claimed.",
+  "preview_image": "../../assets/previews/nazuna-nanakusa--puzzlemoondev/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "spritesheet_sha256": "adda821b977782a08ad6de9a58b36303147899e698b84536135795cfe7d18e79"
+}
