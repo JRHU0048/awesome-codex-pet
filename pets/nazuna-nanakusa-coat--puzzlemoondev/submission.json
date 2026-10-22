@@ -1,0 +1,36 @@
+{
+  "slug": "nazuna-nanakusa-coat--puzzlemoondev",
+  "pet_slug": "nazuna-nanakusa-coat",
+  "author_slug": "puzzlemoondev",
+  "name": "Nazuna Nanakusa (Coat)",
+  "author": "puzzlemoondev",
+  "author_handle": "puzzlemoondev",
+  "author_url": "https://github.com/puzzlemoondev",
+  "primary_category": "Anime Characters",
+  "canonical_key": "fictional/call-of-the-night/nazuna-nanakusa",
+  "variant_note": "A materially distinct coat edition by puzzlemoondev, separate from nazuna-nanakusa--puzzlemoondev: a charcoal coat with wide sleeves, a broad pink smile and tiny fang, and its own generated spritesheet. It reuses the Nazuna Nanakusa choreography and timing with separate coat artwork across nine standard states and sixteen look directions.",
+  "tags": [
+    "nazuna",
+    "nazuna-nanakusa",
+    "call-of-the-night",
+    "anime",
+    "plush",
+    "coat",
+    "fan-art",
+    "ai-generated",
+    "v2"
+  ],
+  "source_type": "ai-generated-fan-art",
+  "source_url": "https://yofukashi-no-uta.com/1st/news/archives/18",
+  "asset_note": "Nazuna Nanakusa (Coat) uses coat artwork generated and repaired with the built-in imagegen tool using native transparency. Its v2 atlas contains nine standard animation states and sixteen look directions, following the choreography and runtime timing of Nazuna Nanakusa.",
+  "reference_note": "The coat appearance was guided by privately supplied plush imagery and an approved generated reference. The private reference imagery has no verified public source URL; its photographer and the plush product maker have not been independently verified. The linked official anime page identifies Nazuna Nanakusa from Call of the Night; it is not the source of the private imagery.",
+  "credit_note": "puzzlemoondev is credited for AI direction, pet adaptation, animation, and packaging. This credit does not claim authorship of the underlying character, plush design, or reference photograph.",
+  "description": "An unofficial Nazuna Nanakusa plush companion from Call of the Night in a charcoal coat, with lavender braids, cyan embroidered eyes, a pink smile and tiny fang, and sixteen look directions.",
+  "license": "Non-commercial use only. Commercial use is prohibited. This is unofficial AI-generated fan art based on privately supplied plush imagery. Underlying character, plush design, and reference-image rights remain with their respective owners; no ownership of or permission to those underlying works is claimed.",
+  "preview_image": "../../assets/previews/nazuna-nanakusa-coat--puzzlemoondev/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "spritesheet_sha256": "f2e144e4e62650819fee5ee1d25266bc78d525ce1cdc7a6285f7fca82227394e"
+}
