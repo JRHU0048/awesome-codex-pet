@@ -1700,6 +1700,26 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "nazuna-nanakusa--puzzlemoondev": {
+      "name": "Nazuna Nanakusa",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "844bb8b281236f835c48ad2f3da2231fbe287d24f8405f3cd7b1f75825a8fc16",
+      "petJsonBytes": 272,
+      "spritesheetSha256": "adda821b977782a08ad6de9a58b36303147899e698b84536135795cfe7d18e79",
+      "spritesheetBytes": 1850848,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
+    "nazuna-nanakusa-coat--puzzlemoondev": {
+      "name": "Nazuna Nanakusa (Coat)",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "aef5e217b771104ccb9fbd75ce496a9177630082628f10f9fea2e8d2d8c2540c",
+      "petJsonBytes": 288,
+      "spritesheetSha256": "f2e144e4e62650819fee5ee1d25266bc78d525ce1cdc7a6285f7fca82227394e",
+      "spritesheetBytes": 1868774,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "night-neko--netizenxuan": {
       "name": "Night Neko",
       "spriteVersionNumber": 1,

@@ -2072,6 +2072,34 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "nazuna-nanakusa--puzzlemoondev",
+    "name": "Nazuna Nanakusa",
+    "author": "puzzlemoondev",
+    "author_handle": "puzzlemoondev",
+    "author_url": "https://github.com/puzzlemoondev",
+    "primary_category": "Anime Characters",
+    "canonical_key": "fictional/call-of-the-night/nazuna-nanakusa",
+    "variant_note": "A photographic velour plush interpretation with restrained motion, nine standard animation states, and sixteen look directions.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. This is unofficial AI-generated fan art based on a privately supplied plush photograph. Underlying character, plush design, and reference-image rights remain with their respective owners; no ownership of or permission to those underlying works is claimed.",
+    "description": "An unofficial Nazuna Nanakusa plush companion from Call of the Night, with lavender braids, cyan embroidered eyes, gentle animations, and sixteen look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "nazuna-nanakusa-coat--puzzlemoondev",
+    "name": "Nazuna Nanakusa (Coat)",
+    "author": "puzzlemoondev",
+    "author_handle": "puzzlemoondev",
+    "author_url": "https://github.com/puzzlemoondev",
+    "primary_category": "Anime Characters",
+    "canonical_key": "fictional/call-of-the-night/nazuna-nanakusa",
+    "variant_note": "A materially distinct coat edition by puzzlemoondev, separate from nazuna-nanakusa--puzzlemoondev: a charcoal coat with wide sleeves, a broad pink smile and tiny fang, and its own generated spritesheet. It reuses the Nazuna Nanakusa choreography and timing with separate coat artwork across nine standard states and sixteen look directions.",
+    "collections": [],
+    "license": "Non-commercial use only. Commercial use is prohibited. This is unofficial AI-generated fan art based on privately supplied plush imagery. Underlying character, plush design, and reference-image rights remain with their respective owners; no ownership of or permission to those underlying works is claimed.",
+    "description": "An unofficial Nazuna Nanakusa plush companion from Call of the Night in a charcoal coat, with lavender braids, cyan embroidered eyes, a pink smile and tiny fang, and sixteen look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "night-neko--netizenxuan",
     "name": "Night Neko",
     "author": "netizenXuan",
