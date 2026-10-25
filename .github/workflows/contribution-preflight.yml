@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          ref: b25e80379aaa5ae756bac5e7ff9fad745e9dda61
+          ref: bd2a690a9ff75917ad876bdeff6b4c4d83f6ae32
           fetch-depth: 2
       - uses: pnpm/action-setup@v6
         with:
