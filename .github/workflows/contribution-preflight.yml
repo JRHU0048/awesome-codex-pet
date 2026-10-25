@@ -1,0 +1,40 @@
+name: Contribution preflight
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-pet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: b25e80379aaa5ae756bac5e7ff9fad745e9dda61
+          fetch-depth: 2
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 10.28.2
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: npm run readmes
+      - run: npm run validate:pr
+        env:
+          BASE_SHA: 61e133a9b9368ba5f756741b24e42c077fff2e15
+      - run: npm run lint
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -r requirements.txt
+      - run: python3 scripts/generate-pet-previews.py luoxiaohei-3d--jrhu0048
+      - uses: actions/upload-artifact@v7
+        with:
+          name: luoxiaohei-3d-preflight-previews
+          path: assets/previews/luoxiaohei-3d--jrhu0048/
+          retention-days: 14
