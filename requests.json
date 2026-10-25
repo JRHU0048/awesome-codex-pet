@@ -1,5 +1,49 @@
 [
   {
+    "number": 327,
+    "character": "미니언즈",
+    "characterDetails": "미니언즈",
+    "franchise": "미니언즈",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.webp"
+    ],
+    "visualDirection": "작업 처리 중일 때는 손에 들려있던 인형을 꼭 안아줬으면 좋겠아요",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-23T20:26:17Z",
+    "updatedAt": "2026-10-25T05:36:34Z",
+    "closedAt": null,
+    "comments": 1,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/327"
+  },
+  {
     "number": 326,
     "character": "onepunch man",
     "characterDetails": "onepunch man",
@@ -40,50 +84,6 @@
     "comments": 1,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/326"
-  },
-  {
-    "number": 327,
-    "character": "미니언즈",
-    "characterDetails": "미니언즈",
-    "franchise": "미니언즈",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.jpg",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.jpg"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.jpg"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/e534498bd19f816477b3262893cd42533957470ceaf4aeae93c43a8b0ad22f07.webp"
-    ],
-    "visualDirection": "작업 처리 중일 때는 손에 들려있던 인형을 꼭 안아줬으면 좋겠아요",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-23T20:26:17Z",
-    "updatedAt": "2026-10-23T20:26:17Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/327"
   },
   {
     "number": 317,
@@ -566,7 +566,7 @@
     },
     "assignees": [],
     "createdAt": "2026-10-18T15:53:36Z",
-    "updatedAt": "2026-10-20T04:35:07Z",
+    "updatedAt": "2026-10-25T05:35:31Z",
     "closedAt": "2026-10-19T16:53:34Z",
     "comments": 8,
     "reactions": 0,
